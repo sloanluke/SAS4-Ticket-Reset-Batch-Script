@@ -12,7 +12,7 @@ To set up the script:
 
 3. You must also do the same for except for the current version game files (line 51) you should have stored somewhere besides the \steamapps game directory
 
-Once the setup is done, you must run this script as administrator in order to change the date through cmd, everything else will work fine through normal cmd. You will need to manually change the date yourself if you choose to run through regular cmd.
+Once the setup is done, you must run this script (downgrade.bat) as administrator in order to change the date through cmd, everything else will work fine through normal cmd. You will need to manually change the date yourself if you choose to run through regular cmd.
 
 Once you run the script, it will tell you where to go in order to properly reset your tickets
 1. Click "Play" on the opening menu
@@ -20,6 +20,6 @@ Once you run the script, it will tell you where to go in order to properly reset
 3. Go to "Multiplayer"
 4. Press any key for the batch script to advance the date 1 day forward
   4b. Some days windows does not accept as a valid date and you will have to manually input tomorrow's date at this stage
-5. go back to the main menu and click on "Settings" in the lower right corner
+5. Go back to the main menu and click on "Settings" in the lower right corner
 6. Select "Force Backup" and press "Okay" once prompted
 7. Go back to the cmd window and press any key to revert the date and versions back to the present. Your tickets have now been reset.
